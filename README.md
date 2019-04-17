@@ -1,1 +1,1 @@
-# python-project
+#Azure Data Catalog upload script
